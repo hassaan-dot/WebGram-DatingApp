@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="503" height="932" viewBox="0 0 503 932">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="48" height="36.141" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Task_Page_-_2_Techy">
+      <rect width="503" height="932"/>
+    </clipPath>
+  </defs>
+  <g id="Task_Page_-_2_Techy" data-name="Task Page - 2 / Techy" clip-path="url(#clip-Task_Page_-_2_Techy)">
+    <rect width="503" height="932" fill="#00253a"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="503" height="106" transform="translate(0 826)" fill="#03a4ff"/>
+    <g id="Easy_Access_Tabs" data-name="Easy Access Tabs" transform="translate(45)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="70" height="70" transform="translate(17 844)" fill="#00253a"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="70" height="70" transform="translate(120 844)" fill="#00253a"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="70" height="70" transform="translate(223 844)" fill="#00253a"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="70" height="70" transform="translate(326 844)" fill="#00253a"/>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="35" cy="35" r="35" transform="translate(22 25)" fill="#03a4ff"/>
+    <text id="Task_Header" data-name="Task Header" transform="translate(168 40)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-79.753" y="32">Task Header</tspan></text>
+    <g id="Group_847" data-name="Group 847" transform="translate(0 43)">
+      <g id="Seek" transform="translate(88.75 210)">
+        <g id="System_Misc_Cell_Slider_Single" data-name="System &amp; Misc Cell/Slider/Single" transform="translate(32 3.495)">
+          <rect id="bg" width="263" height="12" rx="6" transform="translate(0 6)" fill="#00253a"/>
+          <rect id="active" width="164" height="12" rx="6" transform="translate(0 6)" fill="#044468"/>
+          <g id="outline" transform="translate(0 6)" fill="none" stroke="#03a4ff" stroke-miterlimit="10" stroke-width="2">
+            <rect width="263" height="12" rx="6" stroke="none"/>
+            <rect x="1" y="1" width="261" height="10" rx="5" fill="none"/>
+          </g>
+          <g id="picker" transform="translate(146)">
+            <circle id="Oval" cx="12" cy="12" r="12" fill="#03a4ff"/>
+          </g>
+        </g>
+        <g id="Blooicons_Play" data-name="Blooicons / Play" transform="translate(-1.5 3.495)">
+          <rect id="BG-2" data-name="BG" width="24" height="24" fill="#03a4ff" opacity="0"/>
+          <path id="Path" d="M1.5,21A1.5,1.5,0,0,1,0,19.5V1.5A1.5,1.5,0,0,1,2.311.241l14,9a1.5,1.5,0,0,1,0,2.524l-14,9A1.492,1.492,0,0,1,1.5,21ZM3,4.25v12.5L12.726,10.5Z" transform="translate(4.5 1.498)" fill="#03a4ff"/>
+        </g>
+        <g id="Blooicons_Play_Copy" data-name="Blooicons / Play Copy" transform="translate(303)">
+          <path id="Path-2" data-name="Path" d="M15.5,24a1.5,1.5,0,0,1-.144-2.993L15.5,21h4a1.5,1.5,0,0,0,1.493-1.355L21,19.5v-4a1.5,1.5,0,0,1,2.993-.144L24,15.5v4a4.5,4.5,0,0,1-4.289,4.495L19.5,24Zm-11,0A4.5,4.5,0,0,1,0,19.712L0,19.5v-4a1.5,1.5,0,0,1,2.993-.144L3,15.5v4a1.5,1.5,0,0,0,1.355,1.493L4.5,21h4a1.5,1.5,0,0,1,.145,2.993L8.5,24ZM21.007,8.644,21,8.5v-4a1.5,1.5,0,0,0-1.355-1.493L19.5,3h-4A1.5,1.5,0,0,1,15.356.007L15.5,0h4a4.5,4.5,0,0,1,4.495,4.289L24,4.5v4a1.5,1.5,0,0,1-2.993.145Zm-21,0L0,8.5v-4A4.5,4.5,0,0,1,4.289,0L4.5,0h4a1.5,1.5,0,0,1,.145,2.993L8.5,3h-4A1.5,1.5,0,0,0,3.007,4.355L3,4.5v4a1.5,1.5,0,0,1-2.993.145Z" fill="#03a4ff"/>
+        </g>
+      </g>
+      <g id="Image" transform="translate(204 114)">
+        <path id="Shape" d="M9.334,61.335A9.334,9.334,0,1,1,16,45.469V9.334a1.34,1.34,0,0,1,1.054-1.3l37.332-8A1.333,1.333,0,0,1,55.5.3,1.321,1.321,0,0,1,56,1.335v40a9.336,9.336,0,1,1-2.666-6.53V17.65L18.667,25.078V52A9.344,9.344,0,0,1,9.334,61.335Zm0-16A6.666,6.666,0,1,0,16,52,6.675,6.675,0,0,0,9.334,45.334ZM46.666,34.666a6.667,6.667,0,1,0,6.667,6.667A6.674,6.674,0,0,0,46.666,34.666ZM53.333,2.984,18.667,10.412v11.94l34.666-7.428Z" transform="translate(20 17.333)" fill="#0093ed"/>
+      </g>
+    </g>
+    <g id="Task_Files" data-name="Task Files" transform="translate(0 152)">
+      <g id="Group_844" data-name="Group 844" transform="translate(63 -651)">
+        <text id="Folder_Name_2_lines_" data-name="Folder Name (2 lines)" transform="translate(80 1058)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="-0.01em"><tspan x="0" y="0">Lorem Ipsum Dolor Narwhal.midi</tspan></text>
+        <text id="Date" transform="translate(80 1076)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Music file, 3 min long</tspan><tspan x="0" y="16">Mar 13, 2018</tspan></text>
+        <g id="Ellipsis_yellow" data-name="Ellipsis, yellow" transform="translate(336 1070)" opacity="0.395">
+          <circle id="Ellipse_365" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#fff"/>
+          <circle id="Ellipse_366" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#fff"/>
+          <circle id="Ellipse_367" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#fff"/>
+        </g>
+        <g id="Group_745" data-name="Group 745" transform="translate(-143 -61)">
+          <g id="File_base" data-name="File base" transform="translate(167 1103)">
+            <g id="File_base-2" data-name="File base" transform="translate(0 0)" fill="#fff">
+              <path d="M1.64,0H32.8L41,8.938V50.375A1.633,1.633,0,0,1,39.36,52H1.64A1.633,1.633,0,0,1,0,50.375V1.625A1.633,1.633,0,0,1,1.64,0Z" stroke="none"/>
+              <path d="M 1.639999389648438 0.5 C 1.011398315429688 0.5 0.5 1.004669189453125 0.5 1.625 L 0.5 50.3750114440918 C 0.5 50.99533081054688 1.011398315429688 51.5 1.639999389648438 51.5 L 39.36000823974609 51.5 C 39.98860168457031 51.5 40.5 50.99533081054688 40.5 50.3750114440918 L 40.5 9.132125854492188 L 32.58017349243164 0.5 L 1.639999389648438 0.5 M 1.639999389648438 0 L 32.79999923706055 0 L 41 8.9375 L 41 50.3750114440918 C 41 51.2724609375 40.26573944091797 52 39.36000823974609 52 L 1.639999389648438 52 C 0.7342491149902344 52 0 51.2724609375 0 50.3750114440918 L 0 1.625 C 0 0.7275390625 0.7342491149902344 0 1.639999389648438 0 Z" stroke="none" fill="rgba(41,39,36,0.3)"/>
+            </g>
+          </g>
+          <g id="Icon_Audio" data-name="Icon / Audio" transform="translate(109 945)">
+            <rect id="Rectangle_579" data-name="Rectangle 579" width="2" height="11" transform="translate(61 180)" fill="#fff"/>
+            <rect id="Rectangle_580" data-name="Rectangle 580" width="2" height="16" transform="translate(64 178)" fill="#fff"/>
+            <rect id="Rectangle_581" data-name="Rectangle 581" width="2" height="20" transform="translate(67 176)" fill="#fff"/>
+            <rect id="Rectangle_582" data-name="Rectangle 582" width="2" height="16" transform="translate(70 178)" fill="#fff"/>
+            <rect id="Rectangle_583" data-name="Rectangle 583" width="2" height="9" transform="translate(73 181)" fill="#fff"/>
+            <rect id="Rectangle_584" data-name="Rectangle 584" width="2" height="3" transform="translate(76 184)" fill="#fff"/>
+            <rect id="Rectangle_585" data-name="Rectangle 585" width="2" height="1" transform="translate(79 185)" fill="#fff"/>
+            <rect id="Rectangle_586" data-name="Rectangle 586" width="2" height="1" transform="translate(82 185)" fill="#fff"/>
+            <rect id="Rectangle_587" data-name="Rectangle 587" width="2" height="3" transform="translate(85 184)" fill="#fff"/>
+            <rect id="Rectangle_588" data-name="Rectangle 588" width="2" height="16" transform="translate(88 178)" fill="#fff"/>
+            <rect id="Rectangle_589" data-name="Rectangle 589" width="2" height="16" transform="translate(88 178)" fill="#fff"/>
+            <rect id="Rectangle_590" data-name="Rectangle 590" width="2" height="12" transform="translate(91 180)" fill="#fff"/>
+            <rect id="Rectangle_591" data-name="Rectangle 591" width="2" height="9" transform="translate(94 181)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_843" data-name="Group 843" transform="translate(63 -670)">
+        <text id="Folder_Name_2_lines_2" data-name="Folder Name (2 lines)" transform="translate(80 1163)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="-0.01em"><tspan x="0" y="0">Lorem Ipsum Spreadsheet 18.xls</tspan></text>
+        <text id="Date-2" data-name="Date" transform="translate(80 1181)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Spreadsheet, small file</tspan><tspan x="0" y="16">Mar 13, 2018</tspan></text>
+        <g id="Ellipsis_yellow-2" data-name="Ellipsis, yellow" transform="translate(336 1175)" opacity="0.395">
+          <circle id="Ellipse_365-2" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#fff"/>
+          <circle id="Ellipse_366-2" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#fff"/>
+          <circle id="Ellipse_367-2" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#fff"/>
+        </g>
+        <g id="Group_655" data-name="Group 655" transform="translate(2 -22)">
+          <rect id="Rectangle_535" data-name="Rectangle 535" width="3" height="9" transform="translate(31 1199)" fill="#fff"/>
+          <rect id="Rectangle_536" data-name="Rectangle 536" width="3" height="6" transform="translate(36 1202)" fill="#fff"/>
+          <rect id="Rectangle_537" data-name="Rectangle 537" width="3" height="12" transform="translate(41 1196)" fill="#fff"/>
+          <rect id="Rectangle_538" data-name="Rectangle 538" width="3" height="19" transform="translate(46 1189)" fill="#fff"/>
+          <rect id="Rectangle_539" data-name="Rectangle 539" width="3" height="20" transform="translate(51 1188)" fill="#fff"/>
+        </g>
+        <g id="Group_746" data-name="Group 746" transform="translate(-34 888)">
+          <g id="File_base-3" data-name="File base" transform="translate(58 257)">
+            <g id="File_base-4" data-name="File base" transform="translate(0 0)" fill="#fff">
+              <path d="M1.64,0H32.8L41,8.938V50.375A1.633,1.633,0,0,1,39.36,52H1.64A1.633,1.633,0,0,1,0,50.375V1.625A1.633,1.633,0,0,1,1.64,0Z" stroke="none"/>
+              <path d="M 1.639999389648438 0.5 C 1.011398315429688 0.5 0.5 1.004669189453125 0.5 1.625 L 0.5 50.3750114440918 C 0.5 50.99533081054688 1.011398315429688 51.5 1.639999389648438 51.5 L 39.36000823974609 51.5 C 39.98860168457031 51.5 40.5 50.99533081054688 40.5 50.3750114440918 L 40.5 9.132125854492188 L 32.58017349243164 0.5 L 1.639999389648438 0.5 M 1.639999389648438 0 L 32.79999923706055 0 L 41 8.9375 L 41 50.3750114440918 C 41 51.2724609375 40.26573944091797 52 39.36000823974609 52 L 1.639999389648438 52 C 0.7342491149902344 52 0 51.2724609375 0 50.3750114440918 L 0 1.625 C 0 0.7275390625 0.7342491149902344 0 1.639999389648438 0 Z" stroke="none" fill="rgba(41,39,36,0.3)"/>
+            </g>
+          </g>
+          <g id="Icon_Spreadsheet" data-name="Icon / Spreadsheet" transform="translate(-2 -2)">
+            <g id="Rectangle_595" data-name="Rectangle 595" transform="translate(66 280)" fill="none" stroke="#45d38c" stroke-width="1">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_596" data-name="Rectangle 596" transform="translate(75 280)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_597" data-name="Rectangle 597" transform="translate(84 280)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_598" data-name="Rectangle 598" transform="translate(66 284)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_599" data-name="Rectangle 599" transform="translate(75 284)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_600" data-name="Rectangle 600" transform="translate(84 284)" fill="none" stroke="#45d38c" stroke-width="1">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_601" data-name="Rectangle 601" transform="translate(66 288)" fill="none" stroke="#45d38c" stroke-width="1">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_602" data-name="Rectangle 602" transform="translate(75 288)" fill="none" stroke="#45d38c" stroke-width="1">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+            <g id="Rectangle_603" data-name="Rectangle 603" transform="translate(84 288)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+              <rect width="10" height="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_842" data-name="Group 842" transform="translate(63 -701)">
+        <text id="Folder_Name_2_lines_3" data-name="Folder Name (2 lines)" transform="translate(80 1278)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="-0.01em"><tspan x="0" y="0">Lorem Ipsum Doc.pdf</tspan></text>
+        <text id="Date-3" data-name="Date" transform="translate(80 1296)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Document, small file</tspan><tspan x="0" y="16">Mar 13, 2018</tspan></text>
+        <g id="Ellipsis_yellow-3" data-name="Ellipsis, yellow" transform="translate(336 1290)" opacity="0.395">
+          <circle id="Ellipse_365-3" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#fff"/>
+          <circle id="Ellipse_366-3" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#fff"/>
+          <circle id="Ellipse_367-3" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#fff"/>
+        </g>
+        <g id="File_Doc" data-name="File / Doc" transform="translate(24 1262)">
+          <g id="File_base-5" data-name="File base">
+            <g id="File_base-6" data-name="File base" transform="translate(0 0)" fill="#fff">
+              <path d="M1.64,0H32.8L41,8.938V50.375A1.633,1.633,0,0,1,39.36,52H1.64A1.633,1.633,0,0,1,0,50.375V1.625A1.633,1.633,0,0,1,1.64,0Z" stroke="none"/>
+              <path d="M 1.639999389648438 0.5 C 1.011398315429688 0.5 0.5 1.004669189453125 0.5 1.625 L 0.5 50.3750114440918 C 0.5 50.99533081054688 1.011398315429688 51.5 1.639999389648438 51.5 L 39.36000823974609 51.5 C 39.98860168457031 51.5 40.5 50.99533081054688 40.5 50.3750114440918 L 40.5 9.132125854492188 L 32.58017349243164 0.5 L 1.639999389648438 0.5 M 1.639999389648438 0 L 32.79999923706055 0 L 41 8.9375 L 41 50.3750114440918 C 41 51.2724609375 40.26573944091797 52 39.36000823974609 52 L 1.639999389648438 52 C 0.7342491149902344 52 0 51.2724609375 0 50.3750114440918 L 0 1.625 C 0 0.7275390625 0.7342491149902344 0 1.639999389648438 0 Z" stroke="none" fill="rgba(41,39,36,0.3)"/>
+            </g>
+          </g>
+          <text id="Aa" transform="translate(25 44)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.012em"><tspan x="-10.448" y="0">Aa</tspan></text>
+        </g>
+      </g>
+      <g id="Files_Header" data-name="Files Header" transform="translate(185.978 140)">
+        <rect id="Rectangle_16" data-name="Rectangle 16" width="185" height="30" rx="15" transform="translate(-95.978 178)" fill="#fff"/>
+        <text id="Files" transform="translate(-21.978 200)" font-size="20" font-family="SegoeUI, Segoe UI" letter-spacing="-0.01em"><tspan x="0" y="0">Files</tspan></text>
+      </g>
+    </g>
+    <g id="Group_846" data-name="Group 846" transform="translate(81 240)">
+      <g id="Group_622" data-name="Group 622" transform="translate(0 -2)">
+        <text id="Title" transform="translate(20 153)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI" letter-spacing="-0.01em"><tspan x="0" y="0">Client Meeting Notes</tspan></text>
+        <g id="Folder_Shared_Small" data-name="Folder / Shared / Small" transform="translate(20 80)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_13" data-name="Rectangle 13" width="48" height="32.188" rx="3" transform="translate(0 3.953)" fill="#ffc85b"/>
+          <path id="Rectangle_14" data-name="Rectangle 14" d="M2,0H32.447a2,2,0,0,1,2,2v.824a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(6.776)" fill="#ffc85b"/>
+          <g id="Group_664" data-name="Group 664" transform="translate(-29 -242)">
+            <g id="Arrow_Left" data-name="Arrow Left" transform="translate(57.842 266)" opacity="0.347">
+              <line id="Line_89" data-name="Line 89" x1="8.054" transform="translate(0.537 3.061)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <path id="Path_847" data-name="Path 847" d="M3.561,15.8.5,18.861l3.061,3.1" transform="translate(-0.5 -15.8)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+            <g id="Arrow_Right" data-name="Arrow Right" transform="translate(61.601 259.459)" opacity="0.347">
+              <line id="Line_90" data-name="Line 90" x2="8.054" transform="translate(0 3.061)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              <path id="Path_848" data-name="Path 848" d="M18.6,6.661l3.1-3.1L18.6.5" transform="translate(-13.109 -0.5)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_542" data-name="Rectangle 542" width="1" height="24" transform="translate(168 183)" fill="#fff" opacity="0.098"/>
+    </g>
+    <text id="Task_VN_easy_to_comprehend_could_be_left_blank_" data-name="Task VN (easy to comprehend could be left blank)" transform="translate(0 118)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-218.564" y="22">Task VN (easy to comprehend could be left blank)</tspan></text>
+    <text id="TASKS_FINANCE_LEAVES_HOME" data-name="TASKS         FINANCE         LEAVES           HOME" transform="translate(76 868)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18" xml:space="preserve">TASKS         FINANCE         LEAVES           HOME</tspan></text>
+    <g id="Controls_Button_Circle_Icon_Fill" data-name="Controls / Button / Circle Icon / Fill" transform="translate(425 198.5)">
+      <g id="Rectangle" fill="#03a4ff" stroke="#03a4ff" stroke-miterlimit="10" stroke-width="2">
+        <rect width="60" height="60" rx="30" stroke="none"/>
+        <rect x="1" y="1" width="58" height="58" rx="29" fill="none"/>
+      </g>
+      <g id="Blooicons_Search" data-name="Blooicons / Search" transform="translate(15.998 16)">
+        <path id="Path-3" data-name="Path" d="M2.987.513a1.75,1.75,0,0,0-2.6,2.342l.12.133L8.35,10.825.513,18.662A1.75,1.75,0,0,0,.392,21l.12.133a1.75,1.75,0,0,0,2.342.12l.133-.12,9.075-9.075a1.75,1.75,0,0,0,.12-2.342l-.12-.133Z" transform="translate(9.45 3.175)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Card_Cell_Data_Graph_Pie" data-name="Card &amp; Cell / Data &amp; Graph / Pie" transform="translate(356.11 412.175)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M30.445,69.651a26.96,26.96,0,0,1-6.136-.708,27.567,27.567,0,0,1-5.715-2.029A29.47,29.47,0,0,1,13.423,63.7a31.984,31.984,0,0,1-4.506-4.253A34.518,34.518,0,0,1,5.2,54.3a36.664,36.664,0,0,1-2.807-5.916A38.4,38.4,0,0,1,.619,41.844a40.128,40.128,0,0,1,0-14.037,38.4,38.4,0,0,1,1.774-6.537A36.683,36.683,0,0,1,5.2,15.354,34.535,34.535,0,0,1,8.917,10.2a31.966,31.966,0,0,1,4.506-4.252,29.471,29.471,0,0,1,5.172-3.211A27.567,27.567,0,0,1,24.309.707,26.964,26.964,0,0,1,30.315,0V15.246a15.187,15.187,0,0,0-6.532,1.538,16.555,16.555,0,0,0-2.908,1.805,17.958,17.958,0,0,0-2.533,2.391,19.4,19.4,0,0,0-2.09,2.9A20.623,20.623,0,0,0,14.673,27.2a22.264,22.264,0,0,0,0,15.243,20.623,20.623,0,0,0,1.578,3.326,19.419,19.419,0,0,0,2.09,2.9,17.971,17.971,0,0,0,2.533,2.391,16.556,16.556,0,0,0,2.908,1.806,15.2,15.2,0,0,0,13.325,0,16.566,16.566,0,0,0,2.908-1.806,17.985,17.985,0,0,0,2.533-2.391,19.435,19.435,0,0,0,2.09-2.9,20.623,20.623,0,0,0,1.578-3.326,21.882,21.882,0,0,0,1.345-7.472H60.89a39.961,39.961,0,0,1-.618,6.869A38.4,38.4,0,0,1,58.5,48.381,36.662,36.662,0,0,1,55.691,54.3a34.518,34.518,0,0,1-3.718,5.154A32,32,0,0,1,47.468,63.7,29.477,29.477,0,0,1,42.3,66.914a27.574,27.574,0,0,1-5.715,2.029A26.96,26.96,0,0,1,30.445,69.651Z" transform="translate(0 0)" fill="#03a4ff"/>
+    </g>
+  </g>
+</svg>

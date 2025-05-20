@@ -1,0 +1,14 @@
+# netlify.toml
+[build]
+  command = "npm run build"        # or the build command you use for your project
+  publish = "web-build"            # update this to your output directory if it's different
+
+[dev]
+  framework = "#custom"            # use custom to avoid Expo-specific defaults
+  command = "npm run web"          # run your custom web start script
+  targetPort = 8080                # ensure this matches the port used by your Webpack server
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

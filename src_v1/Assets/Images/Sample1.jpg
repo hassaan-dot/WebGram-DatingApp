@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="503" height="932" viewBox="0 0 503 932">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="467" height="573.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Task_HomePage_3">
+      <rect width="503" height="932"/>
+    </clipPath>
+  </defs>
+  <g id="Task_HomePage_3" data-name="Task HomePage – 3" clip-path="url(#clip-Task_HomePage_3)">
+    <rect width="503" height="932" fill="#00253a"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="503" height="106" transform="translate(0 826)" fill="#03a4ff"/>
+    <g id="Easy_Access_Tabs" data-name="Easy Access Tabs" transform="translate(-6 11)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="70" height="70" transform="translate(120 844)" fill="#00253a"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="70" height="70" transform="translate(223 844)" fill="#00253a"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="70" height="70" transform="translate(326 844)" fill="#00253a"/>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="35" cy="35" r="35" transform="translate(22 25)" fill="#03a4ff"/>
+    <text id="Task_Header" data-name="Task Header" transform="translate(168 25)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="32">Task Header</tspan></text>
+    <text id="Task_Header-2" data-name="Task Header" transform="translate(168 25)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="32">Task Header</tspan></text>
+    <text id="_FINANCE_LEAVES_HOME" data-name="         FINANCE         LEAVES          HOME" transform="translate(76 879)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18" xml:space="preserve">         FINANCE         LEAVES          HOME</tspan></text>
+    <g id="Group_848" data-name="Group 848" transform="translate(-291 7)">
+      <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(383 186)" clip-path="url(#clip-path)">
+        <g transform="translate(42 -238)">
+          <g id="Row_Shared_" data-name="Row (Shared)" transform="translate(-42 238)">
+            <g id="Folder_Shared_Large" data-name="Folder / Shared / Large" transform="translate(-24 -238)">
+              <rect id="Rectangle_13" data-name="Rectangle 13" width="105" height="70.412" rx="5" transform="translate(24 246.647)" fill="#ffc85b"/>
+              <path id="Rectangle_14" data-name="Rectangle 14" d="M2,0H73.353a2,2,0,0,1,2,2V6.176a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(38.824 238)" fill="#ffc85b"/>
+              <g id="Group_667" data-name="Group 667">
+                <g id="Arrow_Left" data-name="Arrow Left" transform="translate(98.03 294.615)" opacity="0.347">
+                  <line id="Line_89" data-name="Line 89" x1="11.912" transform="translate(0.794 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_847" data-name="Path 847" d="M5.026,15.8.5,20.326l4.526,4.584" transform="translate(-0.5 -15.8)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+                <g id="Arrow_Right" data-name="Arrow Right" transform="translate(103.589 284.941)" opacity="0.347">
+                  <line id="Line_90" data-name="Line 90" x2="11.912" transform="translate(0 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_848" data-name="Path 848" d="M18.6,9.611l4.585-4.585L18.6.5" transform="translate(-10.479 -0.5)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_661" data-name="Group 661" transform="translate(46 -241)">
+              <text id="Folder_Name_2_lines_" data-name="Folder Name (2 lines)" transform="translate(76 267)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2018 Financials</tspan></text>
+              <text id="Date" transform="translate(169 296)" fill="#3c3c3c" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Yesterday</tspan></text>
+            </g>
+            <g id="Ellipsis_yellow" data-name="Ellipsis, yellow" transform="translate(379 38)" opacity="0.3">
+              <circle id="Ellipse_365" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#292724"/>
+              <circle id="Ellipse_366" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#292724"/>
+              <circle id="Ellipse_367" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#292724"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(42 -117)">
+          <g id="Row_Shared_2" data-name="Row (Shared)" transform="translate(-42 238)">
+            <g id="Folder_Shared_Large-2" data-name="Folder / Shared / Large" transform="translate(-24 -238)">
+              <rect id="Rectangle_13-2" data-name="Rectangle 13" width="105" height="70.412" rx="5" transform="translate(24 246.647)" fill="#ffc85b"/>
+              <path id="Rectangle_14-2" data-name="Rectangle 14" d="M2,0H73.353a2,2,0,0,1,2,2V6.176a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(38.824 238)" fill="#ffc85b"/>
+              <g id="Group_667-2" data-name="Group 667">
+                <g id="Arrow_Left-2" data-name="Arrow Left" transform="translate(98.03 294.615)" opacity="0.347">
+                  <line id="Line_89-2" data-name="Line 89" x1="11.912" transform="translate(0.794 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_847-2" data-name="Path 847" d="M5.026,15.8.5,20.326l4.526,4.584" transform="translate(-0.5 -15.8)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+                <g id="Arrow_Right-2" data-name="Arrow Right" transform="translate(103.589 284.941)" opacity="0.347">
+                  <line id="Line_90-2" data-name="Line 90" x2="11.912" transform="translate(0 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_848-2" data-name="Path 848" d="M18.6,9.611l4.585-4.585L18.6.5" transform="translate(-10.479 -0.5)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_661-2" data-name="Group 661" transform="translate(46 -241)">
+              <text id="Folder_Name_2_lines_2" data-name="Folder Name (2 lines)" transform="translate(76 267)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Client Meeting Notes</tspan></text>
+              <text id="Date-2" data-name="Date" transform="translate(169 296)" fill="#3c3c3c" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Yesterday</tspan></text>
+            </g>
+            <g id="Ellipsis_yellow-2" data-name="Ellipsis, yellow" transform="translate(379 38)" opacity="0.3">
+              <circle id="Ellipse_365-2" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#292724"/>
+              <circle id="Ellipse_366-2" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#292724"/>
+              <circle id="Ellipse_367-2" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#292724"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(42 4)">
+          <g id="Row_Shared_3" data-name="Row (Shared)" transform="translate(-42 238)">
+            <g id="Folder_Shared_Large-3" data-name="Folder / Shared / Large" transform="translate(-24 -238)">
+              <rect id="Rectangle_13-3" data-name="Rectangle 13" width="105" height="70.412" rx="5" transform="translate(24 246.647)" fill="#ffc85b"/>
+              <path id="Rectangle_14-3" data-name="Rectangle 14" d="M2,0H73.353a2,2,0,0,1,2,2V6.176a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(38.824 238)" fill="#ffc85b"/>
+              <g id="Group_667-3" data-name="Group 667">
+                <g id="Arrow_Left-3" data-name="Arrow Left" transform="translate(98.03 294.615)" opacity="0.347">
+                  <line id="Line_89-3" data-name="Line 89" x1="11.912" transform="translate(0.794 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_847-3" data-name="Path 847" d="M5.026,15.8.5,20.326l4.526,4.584" transform="translate(-0.5 -15.8)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+                <g id="Arrow_Right-3" data-name="Arrow Right" transform="translate(103.589 284.941)" opacity="0.347">
+                  <line id="Line_90-3" data-name="Line 90" x2="11.912" transform="translate(0 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_848-3" data-name="Path 848" d="M18.6,9.611l4.585-4.585L18.6.5" transform="translate(-10.479 -0.5)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_661-3" data-name="Group 661" transform="translate(46 -241)">
+              <text id="Folder_Name_2_lines_3" data-name="Folder Name (2 lines)" transform="translate(76 267)" fill="#fffaf3" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Event Photographs, Milan</tspan></text>
+              <text id="Date-3" data-name="Date" transform="translate(169 296)" fill="#3c3c3c" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Yesterday</tspan></text>
+            </g>
+            <g id="Ellipsis_yellow-3" data-name="Ellipsis, yellow" transform="translate(379 38)" opacity="0.3">
+              <circle id="Ellipse_365-3" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#292724"/>
+              <circle id="Ellipse_366-3" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#292724"/>
+              <circle id="Ellipse_367-3" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#292724"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(42 125)">
+          <g id="Row_Shared_4" data-name="Row (Shared)" transform="translate(-42 238)">
+            <g id="Folder_Shared_Large-4" data-name="Folder / Shared / Large" transform="translate(-24 -238)">
+              <rect id="Rectangle_13-4" data-name="Rectangle 13" width="105" height="70.412" rx="5" transform="translate(24 246.647)" fill="#ffc85b"/>
+              <path id="Rectangle_14-4" data-name="Rectangle 14" d="M2,0H73.353a2,2,0,0,1,2,2V6.176a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(38.824 238)" fill="#ffc85b"/>
+              <g id="Group_667-4" data-name="Group 667">
+                <g id="Arrow_Left-4" data-name="Arrow Left" transform="translate(98.03 294.615)" opacity="0.347">
+                  <line id="Line_89-4" data-name="Line 89" x1="11.912" transform="translate(0.794 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_847-4" data-name="Path 847" d="M5.026,15.8.5,20.326l4.526,4.584" transform="translate(-0.5 -15.8)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+                <g id="Arrow_Right-4" data-name="Arrow Right" transform="translate(103.589 284.941)" opacity="0.347">
+                  <line id="Line_90-4" data-name="Line 90" x2="11.912" transform="translate(0 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_848-4" data-name="Path 848" d="M18.6,9.611l4.585-4.585L18.6.5" transform="translate(-10.479 -0.5)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_661-4" data-name="Group 661" transform="translate(46 -241)">
+              <text id="Folder_Name_2_lines_4" data-name="Folder Name (2 lines)" transform="translate(76 267)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Lorem Ipsum Folder</tspan></text>
+              <text id="Date-4" data-name="Date" transform="translate(169 296)" fill="#3c3c3c" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Yesterday</tspan></text>
+            </g>
+            <g id="Ellipsis_yellow-4" data-name="Ellipsis, yellow" transform="translate(379 38)" opacity="0.3">
+              <circle id="Ellipse_365-4" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#292724"/>
+              <circle id="Ellipse_366-4" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#292724"/>
+              <circle id="Ellipse_367-4" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#292724"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(42 246)">
+          <g id="Row_Shared_5" data-name="Row (Shared)" transform="translate(-42 238)">
+            <g id="Folder_Shared_Large-5" data-name="Folder / Shared / Large" transform="translate(-24 -238)">
+              <rect id="Rectangle_13-5" data-name="Rectangle 13" width="105" height="70.412" rx="5" transform="translate(24 246.647)" fill="#ffc85b"/>
+              <path id="Rectangle_14-5" data-name="Rectangle 14" d="M2,0H73.353a2,2,0,0,1,2,2V6.176a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(38.824 238)" fill="#ffc85b"/>
+              <g id="Group_667-5" data-name="Group 667">
+                <g id="Arrow_Left-5" data-name="Arrow Left" transform="translate(98.03 294.615)" opacity="0.347">
+                  <line id="Line_89-5" data-name="Line 89" x1="11.912" transform="translate(0.794 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_847-5" data-name="Path 847" d="M5.026,15.8.5,20.326l4.526,4.584" transform="translate(-0.5 -15.8)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+                <g id="Arrow_Right-5" data-name="Arrow Right" transform="translate(103.589 284.941)" opacity="0.347">
+                  <line id="Line_90-5" data-name="Line 90" x2="11.912" transform="translate(0 4.526)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Path_848-5" data-name="Path 848" d="M18.6,9.611l4.585-4.585L18.6.5" transform="translate(-10.479 -0.5)" fill="none" stroke="#292724" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_661-5" data-name="Group 661" transform="translate(46 -241)">
+              <text id="Folder_Name_2_lines_5" data-name="Folder Name (2 lines)" transform="translate(76 267)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Narwhal Collection</tspan></text>
+              <text id="Date-5" data-name="Date" transform="translate(169 296)" fill="#3c3c3c" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Yesterday</tspan></text>
+            </g>
+            <g id="Ellipsis_yellow-5" data-name="Ellipsis, yellow" transform="translate(379 38)" opacity="0.3">
+              <circle id="Ellipse_365-5" data-name="Ellipse 365" cx="2" cy="2" r="2" fill="#292724"/>
+              <circle id="Ellipse_366-5" data-name="Ellipse 366" cx="2" cy="2" r="2" transform="translate(7)" fill="#292724"/>
+              <circle id="Ellipse_367-5" data-name="Ellipse 367" cx="2" cy="2" r="2" transform="translate(14)" fill="#292724"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

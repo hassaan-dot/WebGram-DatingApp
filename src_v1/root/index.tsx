@@ -25,9 +25,8 @@ import DeleteAccountScreen from "../Screens/DeleteAccont/Screen";
 import CashGift from "../Screens/CashGift/screen";
 import ReportProblem from "../Screens/ReportAProblem/screen";
 import HelpSupportScreen from "../Screens/HelpAndSupport/Screen";
-import Trivia from '../Screens/Trivia/screen' 
+// import Trivia from '../Screens/Trivia/screen'
 import { MontserratBold } from "../Resources/fonts";
-
 
 type RootStackParamList = {
   Splash: undefined;
@@ -51,13 +50,12 @@ type RootStackParamList = {
 
 const Stack = createStackNavigator<RootStackParamList>();
 
-// Define a function to dynamically generate screen options with type annotations
 type ScreenOptionsProps = {
   title: string;
   showHeader?: boolean;
   backgroundColor?: string;
-  customHeaderLeft?: React.ReactElement; // Updated to allow only valid React elements
-  customHeaderTitle?: React.ReactElement | string; // Header title can also be a string
+  customHeaderLeft?: React.ReactElement;
+  customHeaderTitle?: React.ReactElement | string;
 };
 
 const generateScreenOptions = ({
@@ -114,7 +112,7 @@ export const AppIndex: React.FC = () => {
       />
       <NavigationContainer ref={navigationRef}>
         <Stack.Navigator initialRouteName="Splash">
-        <Stack.Screen
+          {/* <Stack.Screen
             name="Trivia"
             component={Trivia}
             options={{ headerShown: false }}
@@ -123,12 +121,12 @@ export const AppIndex: React.FC = () => {
             //   customHeaderTitle: "Trivia",
             //   backgroundColor: "#FFFBFF",
             // })}
-          />
+          /> */}
           <Stack.Screen
             name="Splash"
             component={Splash}
             options={{ headerShown: false }}
-          />  
+          />
 
           <Stack.Screen
             name="Login"
@@ -152,7 +150,6 @@ export const AppIndex: React.FC = () => {
               title: "Help and Support",
               backgroundColor: "#FFFBFF",
               customHeaderTitle: "Help and Support",
-
             })}
           />
           <Stack.Screen
@@ -161,7 +158,6 @@ export const AppIndex: React.FC = () => {
             options={generateScreenOptions({
               title: "Send a Gift",
               backgroundColor: "#FFFBFF",
-         
             })}
           />
           <Stack.Screen
@@ -239,7 +235,6 @@ export const AppIndex: React.FC = () => {
               backgroundColor: "#FFFBFF",
             })}
           />
-   
         </Stack.Navigator>
       </NavigationContainer>
     </>

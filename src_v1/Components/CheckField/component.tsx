@@ -6,7 +6,7 @@ import { icons } from "../../Resources";
 interface CheckboxFieldProps {
   text: string;
   Correct?: boolean;
-  textStyle: any;
+  textStyle?: any;
   icon?: boolean;
   onSelect: (selectedOption: string) => void;
 }
@@ -61,9 +61,7 @@ const CheckboxField: React.FC<CheckboxFieldProps> = ({
                 ? icons.TickQuestion_Icon
                 : icons.CrossQuestion_Icon
             }
-            style={[styles.icon, 
-              { tintColor: icon ? "#666" : "" }
-            ]}
+            style={[styles.icon, { tintColor: icon ? "#666" : "" }]}
           ></Image>
         </View>
       </TouchableOpacity>

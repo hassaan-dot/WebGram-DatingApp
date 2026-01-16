@@ -1,4 +1,3 @@
-
 import React from "react";
 import { View } from "react-native";
 import { styles } from "./styles";
@@ -8,10 +7,11 @@ import ScorePredictorCom from "../../ScorePredictor/component";
 import helpers from "../../../utils/helpers";
 
 const QuestionCard = ({
-  options=[],
+  options = [],
   handleSelectOption,
   Data,
   ScorePredictor,
+  HandleNextState,
 }) => {
   return (
     <View
@@ -32,7 +32,7 @@ const QuestionCard = ({
       >
         {ScorePredictor ? (
           <>
-            <ScorePredictorCom/>
+            <ScorePredictorCom />
           </>
         ) : (
           <>
@@ -42,8 +42,9 @@ const QuestionCard = ({
             <View style={styles.container2}>
               {Data?.options?.map((option, optionIndex) => (
                 <CheckboxField
-                  key={optionIndex}
+                  // key={optionIndex}
                   text={option.text}
+                  // textStyle={{}}
                   onSelect={() => handleSelectOption(option, optionIndex)}
                 />
               ))}
